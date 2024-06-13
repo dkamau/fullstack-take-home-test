@@ -40,6 +40,10 @@ You can build this view without the concept of a "student" and just have a singl
 - Create components as you feel is best suited for your solution
 <img width="1013" alt="Screenshot 2024-05-15 at 19 10 51" src="https://github.com/ElloTechnology/fullstack-take-home-test/assets/3518127/bc3eb7f7-489f-4304-93f4-032bbbd38c58">
 
+### Implementation
+<img width="959" alt="image" src="https://github.com/dkamau/fullstack-take-home-test/assets/34334743/66ec3af7-b8c5-4ac7-be97-7305ffff64b9">
+
+
 
 ### Data
 To get access to data that you will use for this challenge you can switch into the `src/backend` folder and run
