@@ -1,0 +1,17 @@
+.nav-link {
+    margin: 0px 28px 0px 0px;
+    font-style: inherit;
+    font-variant: inherit;
+    font-stretch: inherit;
+    line-height: inherit;
+    font-family: inherit;
+    font-optical-sizing: inherit;
+    font-kerning: inherit;
+    font-feature-settings: inherit;
+    font-variation-settings: inherit;
+    color: rgb(51, 92, 110);
+    text-decoration: none;
+    padding: 10px;
+    font-size: 1.125rem;
+    font-weight: 600;
+  }
